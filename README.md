@@ -13,6 +13,7 @@ Once you have the images at the IMAGES_PATH and their coresponding targets at MA
 RUN "brain_tumor.py"
 
 A deep neural network will be constructed. I used Convolutional Neural Networks on a U-Net architecture.
+
 At the end of the code it will generate the trained model.h5
 
 Then create a testing folder and 
